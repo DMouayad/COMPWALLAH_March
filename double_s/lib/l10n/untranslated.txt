@@ -1,0 +1,6 @@
+{
+  "ar": [
+    "themeModeSettings",
+    "calendar"
+  ]
+}
